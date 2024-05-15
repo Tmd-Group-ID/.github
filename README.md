@@ -1,5 +1,5 @@
 About Us:
-------------------------------+-----
+-----------------------------------
 
 ![Sponsor & Funding Company](https://www.)
 
@@ -10,11 +10,11 @@ PT Media Pengembangan Teknologi Indonesia Jaya is small business technology from
 Owner/Founder:
 1. [Ananda Rauf Maududi](https://www.linkedin.com/in/ananda-rauf-maududi-)
 
-[Our Website](https://tmd-group-187de4154457.herokuapp.com/)
+[Our Website](https://tmdgroupid.tumbuhku.my.id/)
 
 [Our Google Playstore](https://play.google.com/store/apps/dev?id=5982171410675485926)
 
-[Our Email](https:mailto: tmdgroupid@gmail.com)
+[Our Email](https//:mailto:tmdgroupid@gmail.com)
 
 [Our Facebook page](https://www.facebook.com/profile.php?id=100093448924960&mibextid=ZbWKwL)
 
